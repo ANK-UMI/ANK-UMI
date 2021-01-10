@@ -11,7 +11,7 @@
 <h2>OUTSOURCING</h2>
 인터랙티브 웹(포트폴리오/전시/광고/비상업/상업)<br>
 모션 포스터(2D/3D/Off-line/Real-time)<br>
-3D(Object/Scan/HDRI/...)<br>
+3D(Object/Scan/HDRI/Off-line/Real-time)<br>
 Interactive Animation(2D/3D)<br>
 뮤직비디오(2D/3D/Off-line/Real-time)<br>
 단편 영화(2D/3D/Off-line/Real-time)<br>

@@ -21,7 +21,8 @@ Interactive Animation(2D/3D)<br>
 GitHub, Processing(PDE), HTML+CSS, JavaScript, WebGL, 3D, ...<br>
 <br>
 <h2>CONTACT</h2>
-<a href = "https://3darvr.tistory.com/">Tistory</a>
-KakaoTalk ID: ewhgyu
+<a href = "https://www.instagram.com/mgntc_hue/">Instagram</a><br>
+<a href = "https://3darvr.tistory.com/">Tistory</a><br>
+KakaoTalk ID: ewhgyu<br>
 Gmail: ewhgyu@ewhain.net<br>
 <br>

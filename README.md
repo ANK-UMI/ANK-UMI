@@ -1,1 +1,3 @@
-안녕하세요. Artist & Developer 안규미 입니다. 
+안녕하세요. 안규미 입니다. 
+Adobe, Processing, Blender3D, sideFX, Unity3d, Unreal-Engine, Brackets, Visual Studio 등의 툴과 함께 다양한 오픈소스 라이브러리를 사용하여 디지털 작업 을 합니다. 
+

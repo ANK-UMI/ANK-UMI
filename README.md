@@ -9,7 +9,7 @@
 2019년 홍익대 시각디자인과(HIVCD) 소모임 그린비(GREENBEE) 전시 '그린토피아(GREENTOPIA)' 기술 구현 참여<br>
 <br>
 <h2>OUTSOURCING</h2>
-인터랙티브 웹(포트폴리오/전시/광고)<br>
+인터랙티브 웹(포트폴리오/전시/광고/비상업/상업)<br>
 모션 포스터(2D/3D/Off-line/Real-time)<br>
 3D(Object/Scan/HDRI/...)<br>
 Interactive Animation(2D/3D)<br>

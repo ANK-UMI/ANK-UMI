@@ -15,10 +15,11 @@
 Interactive Animation(2D/3D)<br>
 뮤직비디오(2D/3D/Off-line/Real-time)<br>
 단편 영화(2D/3D/Off-line/Real-time)<br>
-...
+...<br>
 <br>
 <h2>TUTORING</h2>
 GitHub, Processing(PDE), HTML+CSS, JavaScript, WebGL, 3D, ...<br>
 <br>
 <h2>CONTACT</h2>
 ewhgyu@ewhain.net<br>
+<br>

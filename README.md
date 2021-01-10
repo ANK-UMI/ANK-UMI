@@ -1,7 +1,7 @@
 <h3>ABOUT</h3>
 안녕하세요. 안규미 입니다. <br>
 애니메이션, 영화, 뮤지컬, 뮤직비디오, 미디어 아트 등에 관심이 많습니다. <br>
-사진, 3D, 컴퓨터 그래픽(CG), 실시간 렌더링(Real-Time Rendering) 등 영상 분야를 주력으로 연구하며 다양한 작업물을 개발, 제작합니다. <br>
+사진, 3D, 컴퓨터 그래픽(CG), 실시간 렌더링(Real-Time Rendering) 등 넓은 범위의 영상 분야를 주력으로 연구하며 다양한 작업물을 개발, 제작합니다. <br>
 <br>
 <h3>PROJECT</h3>
 2020년 이화여자대학교 LEAP 소모임 'PRISMLABO(프리즘라보)' KPOP 뮤직비디오 '사려니' 제작, <a href = "https://prismlabo.github.io/main/index.html">온라인 전시 웹사이트</a> 개발<br>

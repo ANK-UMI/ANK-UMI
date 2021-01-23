@@ -1,5 +1,5 @@
 <h3>ABOUT</h3>
-EWHA WOMANS UNIVERSITY(Collage of Art&Design)<br>
+EWHA WOMANS UNIVERSITY(Collage of Art & Design)<br>
 영상 기술 관련 분야를 주력으로 연구합니다. <br>
 첫 번째 계정: @mdmgntc<br>
 <br>

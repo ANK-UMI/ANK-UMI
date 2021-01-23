@@ -1,6 +1,7 @@
 <h3>ABOUT</h3>
 EWHA WOMANS UNIVERSITY(Collage of Art&Design)<br>
 영상 기술 관련 분야를 주력으로 연구합니다. <br>
+첫 번째 계정: @mdmgntc<br>
 <br>
 <h3>PROJECT</h3>
 2020 - 이화여자대학교 LEAP 소모임 'PRISMLABO(프리즘라보)' KPOP 뮤직비디오 '사려니' 제작, <a href = "https://prismlabo.github.io/main/index.html">온라인 전시 웹사이트</a> 개발<br>

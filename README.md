@@ -10,7 +10,7 @@ EWHA WOMANS UNIVERSITY(Collage of Art & Design)<br>
 2019 - NullPointerException(NPE)<br>
 <br>
 <h3>OUTSOURCING</h3>
-Interactive-Web(web-design/front-end/web-publishing)<br>
+Interactive-Web(web-design/web-publishing/front-end)<br>
 Motion-Poster(2D/3D/Off-line/Real-time)<br>
 3D(Object/PhotoScan/HDRI/Off-line/Real-time)<br>
 Interactive-Animation(2D/3D)<br>

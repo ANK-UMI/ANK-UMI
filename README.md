@@ -4,9 +4,9 @@ EWHA WOMANS UNIVERSITY(Collage of Art&Design)<br>
 첫 번째 계정: @mdmgntc<br>
 <br>
 <h3>PROJECT</h3>
-2020 - 이화여자대학교 LEAP 소모임 'PRISMLABO(프리즘라보)' KPOP 뮤직비디오 '사려니' 제작, <a href = "https://prismlabo.github.io/main/index.html">온라인 전시 웹사이트</a> 개발<br>
-2020 - 이마프 '이화 미디어아트 국제전 이마프(EMAP)'에서 '<a href="http://ewhamoviefesta.kr/egmf_work/traveler/">Traveler(트래블러)</a>' 작품 출품 <br>
-2019 - 홍익대 시각디자인과(HIVCD) 소모임 그린비(GREENBEE) 전시 '그린토피아(GREENTOPIA)' 기술 구현 참여<br>
+2020 - Saryeoni<br>
+2020 - Traveler<br>
+2019 - NullPointerException(NPE)<br>
 <br>
 <h3>OUTSOURCING</h3>
 인터랙티브 웹(포트폴리오/전시/광고/비상업/상업)<br>

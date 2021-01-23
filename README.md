@@ -1,5 +1,5 @@
 <h3>ABOUT</h3>
-안녕하세요. 이화여자대학교 디자인학부 안규미 입니다. <br>
+EWHA WOMANS UNIVERSITY. Collage of Art&Design. <br>
 영상 기술 관련 분야를 주력으로 연구합니다. <br>
 <br>
 <h3>PROJECT</h3>

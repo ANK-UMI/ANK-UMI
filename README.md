@@ -4,6 +4,5 @@ EWHA WOMANS UNIVERSITY(Collage of Art & Design)<br>
 첫 번째 계정: @mdmgntc<br>
 <a href = "https://www.instagram.com/mgntc_hue/">Instagram</a><br>
 <a href = "https://3darvr.tistory.com/">Tistory</a><br>
-KakaoTalk ID: ewhgyu<br>
 Gmail: ewhgyu@ewhain.net<br>
 <br>

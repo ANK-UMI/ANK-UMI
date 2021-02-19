@@ -1,8 +1,9 @@
 <h3>ABOUT</h3>
 EWHA WOMANS UNIVERSITY COLLAGE of ART & DESIGN <br>
-영상 기술 관련 분야를 주력으로 연구합니다. <br>
-첫 번째 계정: @mdmgntc<br>
-<a href = "https://www.instagram.com/mgntc_hue/">Instagram</a><br>
-<a href = "https://3darvr.tistory.com/">Tistory</a><br>
-Gmail: ewhgyu@ewhain.net<br>
+PHOTOGRAPHY / SHORT FILM / ANIMATION / 3D / <br>
+RESPONSIBLE & INTERACTIVE WEB / INTERACTIVE VIDEO / EXPERIMENTAL VIDEO / <br>
+ANOTHER ACCOUNT: @mdmgntc<br>
+<a href = "https://www.instagram.com/mgntc_hue/">INSTAGRAM</a><br>
+<a href = "https://3darvr.tistory.com/">TISTORY</a><br>
+GMAIL: EWHGYU@EWHAIN>NET<br>
 <br>

@@ -5,8 +5,8 @@ RESPONSIBLE & INTERACTIVE WEB / INTERACTIVE VIDEO / EXPERIMENTAL VIDEO  <br>
 <br>
 <i>
 G-mail: ewhgyu@ewhain.net<br>
-ANOTHER ACCOUNT: @mdmgntc<br>
-<a href = "https://www.instagram.com/mgntc_hue/">instagram</a><br>
-<a href = "https://3darvr.tistory.com/">tistory</a><br>
+Another account: @mdmgntc<br>
+<a href = "https://www.instagram.com/mgntc_hue/">Instagram</a><br>
+<a href = "https://3darvr.tistory.com/">Tistory</a><br>
 52, Ewhayeodae-gil, Seodaemun-gu, Seoul, Republic of Korea<br>
 </i>

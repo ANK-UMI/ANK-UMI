@@ -9,4 +9,5 @@ Another github account: @mdmgntc<br>
 G-mail: ewhgyu@ewhain.net<br>
 SNS: <a href = "https://www.instagram.com/mgntc_hue/">Instagram</a> / <a href = "https://3darvr.tistory.com/">Tistory</a> / ...<br>
 52, Ewhayeodae-gil, Seodaemun-gu, Seoul, Republic of Korea<br>
+ⓒ안규미<br>
 <br>

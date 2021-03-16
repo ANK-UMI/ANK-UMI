@@ -4,9 +4,7 @@ EWHA WOMANS UNIVERSITY COLLAGE of ART & DESIGN <br>
 2D / 3D / PHOTOGRAPHY / SHORT FILM / ANIMATION <br>
 RESPONSIBLE / INTERACTIVE / WEB / INTERACTIVE VIDEO / EXPERIMENTAL VIDEO <br>
 </i>
-<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<br>
 <i>
 Another github account: @mdmgntc<br>
 G-mail: ewhgyu@ewhain.net<br>

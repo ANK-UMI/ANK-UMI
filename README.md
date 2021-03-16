@@ -2,8 +2,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ANK-UMI&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
 <br>
 EWHA WOMANS UNIVERSITY COLLAGE of ART & DESIGN <br>
-2D / 3D / PHOTOGRAPHY / SHORT FILM / ANIMATION <br>
-RESPONSIBLE / INTERACTIVE / WEB / INTERACTIVE VIDEO / EXPERIMENTAL VIDEO<br>
+2D / 3D / PHOTOGRAPHY / SHORT FILM / ANIMATION / MEDIA ART<br>
+RESPONSIBLE / INTERACTIVE / EXPERIMENTAL VIDEO<br>
 <br>
 Another github account: @mdmgntc<br>
 G-mail: ewhgyu@ewhain.net<br>

@@ -16,9 +16,6 @@ Khronos(OpenGL, WebGL, glTF, ... ), OpenEXR, OpenCV, ... <br>
 <h3>Top Langs</h3>
 JavaScript, HTML5, CSS3, JavaScript, GLSL, Python, Processing, C++ ...<br>
 <br>
-<h3>Cartegory</h3>
-
-<br>
 <h3>SNS</h3>
 <a href = "https://www.instagram.com/ank_umi_works/">Instagram: ank_umi_works</a><br>
 <a href = "https://www.youtube.com/channel/UChXviYpoyVkufs_QGrhMaZQ">Youtube</a><br>
@@ -26,7 +23,6 @@ JavaScript, HTML5, CSS3, JavaScript, GLSL, Python, Processing, C++ ...<br>
 <a href = "https://sketchfab.com/GYUMI-ANK/models">Sketchfab: GYUMI-ANK</a><br>
 <a href = "https://www.shadertoy.com/profile?show=shaders">Shadertoy: magneticstar</a><br>
 <a href = "https://opensea.io/?ref=0x93602bfb0cf759a9a19e6efec14ade1c659ae4db&locale=ko">OpenSea</a><br>
-<br>
 <br>
 Another github account: @ANGYUMI<br>
 G-mail: ewhgyu@ewhain.net<br>

@@ -1,6 +1,6 @@
 <h2>도구를 설계하는 아티스트<br>
   <br>
-  Digital Art / 3D Animation(Modeling, VFX, Real-Time Rendering) / Front-End Develop</h2>
+  <i>Digital Art / 3D Animation(Modeling, VFX, Real-Time Rendering) / Front-End Develop</i></h2>
 <br>
 <h3>Education</h3>
 Undergraduate of Design Division, <br>

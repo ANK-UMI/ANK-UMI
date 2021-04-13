@@ -11,7 +11,7 @@ Software Media Art, Computational Art, Generative Art, Digital Art, Real-Time Re
 Github, Visual Studio, VSCode<br>
 Blender, Houdini, Unity, After Effect<br>
 MMD<br>
-HTML5 + CSS3 +BS4 + MediaQuarry + ES6 + JS Library(Three.js, P5.js, ...) +  Plask Framework(Light)<br>
+HTML5 + CSS3 + BS4 + MediaQuarry + ES6 + JS Library(Three.js, P5.js, ...) +  Plask Framework(Light)<br>
 Khronos(OpenGL, WebGL, glTF, ... ), OpenEXR, OpenCV, ... <br>
 <br>
 <h3>Top Langs</h3>

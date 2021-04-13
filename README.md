@@ -1,3 +1,17 @@
+<h3>Education</h3>
+Undergraduate of Design Division, <br>
+The College of Art and Design, <br>
+Ewha Womans University<br>
+<br>
+<h3>Skills</h3>
+Software Media Art, Digital Art, Computational Art, Generative Art, Real-Time Rendering, 3D Illustration, Front-end Develop, Interactive Music Video, Experimental Video
+<br>
+<h3>Most Used Tools</h3>
+Github, Visual Studio, VSCode, Blender, Houdini, Unity, After Effect, HTML5 + CSS3 + Bootstrap + ES6 + JS Library(Three.js, P5.js, ...), Khronos(OpenGL, WebGL, glTF, ... )
+<br>
+<h3>Most Used Languages</h3>
+JavaScript, HTML5, CSS3, JavaScript, GLSL, Python, Processing, C++ ...
+<br>
 # &#127846;&#128151;ARTIST GYUMI-ANG&#127846;&#128151;<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ANK-UMI&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
 <br>

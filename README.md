@@ -2,7 +2,7 @@
   <i>Digital Art / 3D Animation(Modeling, VFX, Real-Time Rendering) / Front-End Develop</i></h2>
 <br>
 <h3>Education</h3>
-Undergraduate of Design Division, The College of Art and Design, Ewha Womans University<br>
+The College of Art and Design, Ewha Womans University<br>
 <br>
 <h3>Skills</h3>
 Software Media Art, Computational Art, Generative Art, Digital Art, Real-Time Rendering, Digital Illustration, Front-end Develop, Short-Film, Music Video, Experimental Video<br>

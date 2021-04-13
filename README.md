@@ -1,3 +1,6 @@
+<h2>도구를 설계하는 디자이너이자 아티스트</h2>
+<h2>Digital Art / 3D Animation(Modeling, VFX, Real-Time Rendering) / Front-End Develop</h2>
+<br>
 <h3>Education</h3>
 Undergraduate of Design Division, <br>
 The College of Art and Design, <br>

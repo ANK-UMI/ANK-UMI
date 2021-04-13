@@ -24,7 +24,7 @@ JavaScript, HTML5, CSS3, JavaScript, GLSL, Python, Processing, C++ ...<br>
 <a href = "https://www.shadertoy.com/profile?show=shaders">Shadertoy: magneticstar</a><br>
 <a href = "https://opensea.io/?ref=0x93602bfb0cf759a9a19e6efec14ade1c659ae4db&locale=ko">OpenSea</a><br>
 <br>
-<h3>-</h3>
+<h3>Contact</h3>
 Another github account: @ANGYUMI<br>
 G-mail: ewhgyu@ewhain.net<br>
 52, Ewhayeodae-gil, Seodaemun-gu, Seoul, Republic of Korea<br>

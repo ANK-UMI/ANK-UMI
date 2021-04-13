@@ -1,4 +1,4 @@
-<h2>도구를 설계하는 디자이너이자 아티스트<br>
+<h2>도구를 설계하는 아티스트<br>
   Digital Art / 3D Animation(Modeling, VFX, Real-Time Rendering) / Front-End Develop</h2>
 <br>
 <h3>Education</h3>

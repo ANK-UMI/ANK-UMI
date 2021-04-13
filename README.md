@@ -12,8 +12,7 @@ Github, Visual Studio, VSCode, Blender, Houdini, Unity, After Effect, HTML5 + CS
 <h3>Most Used Languages</h3>
 JavaScript, HTML5, CSS3, JavaScript, GLSL, Python, Processing, C++ ...
 <br>
-# &#127846;&#128151;ARTIST GYUMI-ANG&#127846;&#128151;<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ANK-UMI&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ANK-UMI&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 EWHA WOMANS UNIVERSITY COLLAGE of ART & DESIGN <br>
 2D / 3D / PHOTOGRAPHY / SHORT FILM / ANIMATION / MEDIA ART<br>

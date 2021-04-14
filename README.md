@@ -5,7 +5,7 @@
 The College of Art and Design, Ewha Womans University<br>
 <br>
 <h3>Skills</h3>
-Software Media Art, Computational Art, Generative Art, Digital Art, Real-Time Rendering, Digital Illustration, Front-end Develop, Short-Film, Music Video, Experimental Video<br>
+Software Media Art, Computational Art, Generative Art, Digital Art, Real-Time Rendering, Digital Illustration, Front-End Web Development, Short-Film, Music Video, Experimental Video<br>
 <br>
 <h3>Most Used Tools</h3>
 Github, Visual Studio, VSCode<br>

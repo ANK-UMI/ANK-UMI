@@ -1,5 +1,5 @@
 <h2>도구를 설계하는 아티스트<br>
-  <i>Digital Art / 3D / Animation / Real-Time Rendering / VR / Front-end web development</i></h2>
+  <i>Digital Art / 3D / Animation / Real-Time Rendering / VR / Front-End Web Development</i></h2>
 <br>
 <h3>Education</h3>
 The College of Art and Design, Ewha Womans University<br>

@@ -8,11 +8,14 @@ The College of Art and Design, Ewha Womans University<br>
 Software Media Art, Computational Art, Generative Art, Digital Art, Real-Time Rendering, Digital Illustration, Front-End Web Development, Short-Film, Music Video, Experimental Video<br>
 <br>
 <h3>Most Used Tools</h3>
-Github, Visual Studio, VSCode<br>
+Visual Studio, VSCode<br>
 Blender, Houdini, Unity, After Effect<br>
 MMD<br>
-HTML5 + CSS3 + BS4 + MediaQuarry + ES6 + JS Library(Three.js, P5.js, ...) +  Plask Framework(Light)<br>
-Khronos(OpenGL, WebGL, glTF, ... ), OpenEXR, OpenCV, ... <br>
+HTML5: HTML5 / CSS3 / BS4 / MediaQuarry / ES6 
+JS Library: ThreeJS / P5JS / ArJS / ...
+Framework: Nodejs / Expressjs / Flask<br>
+Graphics Library: OpenGL / WebGL / glTF / ...  
+OpenEXR, OpenCV, ... <br>
 <br>
 <h3>Top Langs</h3>
 JavaScript, HTML5, CSS3, JavaScript, GLSL, Python, Processing, C++ ...<br>

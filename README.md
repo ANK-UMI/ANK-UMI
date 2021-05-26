@@ -8,7 +8,7 @@ The College of Art and Design, Ewha Womans University<br>
 Software Media Art, Computational Art, Generative Art, Digital Art, Real-Time Rendering, Digital Illustration, Front-End Web Development, Short-Film, Music Video, Experimental Video<br>
 <br>
 <h3>Most Used Tools</h3>
-Visual Studio, VSCode<br>
+Source-Code Editor: Visual Studio, VSCode<br>
 Adobe: Photoshop, After Effect, ...<br>
 3D Animation: WebGL, Blender, Houdini, Unity, MMD, ...<br>
 Front-End: HTML5 / CSS3 / BS4 / MediaQuarry / ES6 / WebSockket <br>

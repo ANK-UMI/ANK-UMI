@@ -11,11 +11,11 @@ Software Media Art, Computational Art, Generative Art, Digital Art, Real-Time Re
 Visual Studio, VSCode<br>
 Blender, Houdini, Unity, After Effect<br>
 MMD<br>
-HTML5: HTML5 / CSS3 / BS4 / MediaQuarry / ES6 
-JS Library: ThreeJS / P5JS / ArJS / ...
+Front-End: HTML5 / CSS3 / BS4 / MediaQuarry / ES6 / WebSockket <br>
+JS Library: ThreeJS / P5JS / ArJS / ...<br>
 Framework: Nodejs / Expressjs / Flask<br>
-Graphics Library: OpenGL / WebGL / glTF / ...  
-OpenEXR, OpenCV, ... <br>
+Khronos: OpenGL / WebGL / glTF / ...  <br>
++: OpenEXR, OpenCV, ... <br>
 <br>
 <h3>Top Langs</h3>
 JavaScript, HTML5, CSS3, JavaScript, GLSL, Python, Processing, C++ ...<br>

@@ -11,7 +11,7 @@ Software Media Art, Computational Art, Generative Art, Digital Art, Real-Time Re
 Source-Code Editor: Visual Studio, VSCode<br>
 Adobe: Photoshop, After Effect, ...<br>
 3D Animation: WebGL, Blender, Houdini, Unity, MMD, ...<br>
-Front-End: HTML5 / CSS3 / BS4 / MediaQuarry / ES6 / WebSockket <br>
+Front-End: HTML5 / CSS3 / BS4 / MediaQuarry / ES6 / WebSocket / ... <br>
 JS Library: ThreeJS / P5JS / ArJS / ...<br>
 Framework: Nodejs / Expressjs / Flask<br>
 Khronos: OpenGL / WebGL / glTF / ...  <br>

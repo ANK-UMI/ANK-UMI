@@ -18,7 +18,7 @@ Khronos: OpenGL / WebGL / glTF / ...  <br>
 +: OpenEXR, OpenCV, ... <br>
 <br>
 <h3>Top Langs</h3>
-JavaScript, HTML5, CSS3, JavaScript, GLSL, Python, Processing, C++ ...<br>
+HTML5, CSS3, JavaScript, GLSL, Python, Processing, C++ ...<br>
 <br>
 <h3>SNS</h3>
 <a href = "https://www.instagram.com/ank_umi_works/">Instagram: ank_umi_works</a><br>

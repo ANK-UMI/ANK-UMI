@@ -1,4 +1,3 @@
-### WTF?
 도구를 설계하는 아티스트(Digital Art / 3D / Animation / Real-Time Rendering / VR / Front-End Web Development)
 
 ### Education

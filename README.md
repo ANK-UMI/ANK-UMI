@@ -4,7 +4,7 @@
 ### SNS 
 - <a href = "https://www.instagram.com/ank_umi_works/">Instagram: ank_umi_works</a>
 - <a href = "https://www.youtube.com/channel/UCRDhbC1VhKHvBCfl145dwdg">Youtube</a>
-- <a href = "https://www.shadertoy.com/profile?show=shaders">Shadertoy: magneticstar</a>
+- <a href = "https://www.shadertoy.com/profile?show=shaders">Shadertoy</a>
 
 ### Contact 
 - Another github account: @ANGYUMI

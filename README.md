@@ -1,4 +1,5 @@
 ### About
+Gyumi-An is an Artist Who Designs Tools.
 도구를 설계하는 아티스트
 
 ### SNS 

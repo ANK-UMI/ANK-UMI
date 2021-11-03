@@ -2,10 +2,6 @@
 Gyumi-An is an Artist Who Designs Tools<br>
 도구를 디자인하는 아티스트
 
-### SNS 
-- <a href = "https://www.instagram.com/ank_umi_works/">Instagram</a>
-- <a href = "https://www.youtube.com/channel/UCRDhbC1VhKHvBCfl145dwdg">Youtube</a>
-
 ### Contact 
 - Another github account: @ANGYUMI
 - Instagram: <a href = "https://www.instagram.com/ang_works/">@ang_works</a>
